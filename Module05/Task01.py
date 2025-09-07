@@ -10,4 +10,3 @@ for i in range(num_dice):
     total += dice
 
 print(f"The sum of the numbers is: {total}")
-

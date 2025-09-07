@@ -9,5 +9,3 @@ for i in range (5):
 print(f"The name of five cities are the following: ")
 for city in cities:
     print(f"- {city}")
-
-
