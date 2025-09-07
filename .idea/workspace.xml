@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="510b4b0d-dcca-4f6f-8fdb-6debda4de515" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_07_09_2025_4_56_pm_[Changes]/shelved.patch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_07_09_2025_4_56_pm__Changes_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_07_09_2025_5_18_pm_[Changes]/shelved.patch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_07_09_2025_5_18_pm__Changes_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module05/Task01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module05/Task02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module05/Task03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module05/Task04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module06/Task01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module06/Task02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module06/Task03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module06/Task04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module06/Task05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module06/Task06.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+      <option value="repository" />
+    </option>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="MIXED" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Yamong97&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Yamong97/Software01Assignments.git&quot;,
+    &quot;accountId&quot;: &quot;b795e47c-9ad9-4556-ae01-34c3cefb0d20&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="31ipcForkHfAmOc6R10igRsHPip" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Notification.DisplayName-DoNotAsk-vcs.commit.finished": "1 file committed",
+    "Notification.DoNotAsk-vcs.commit.finished": "true",
+    "Python.Task01 (1).executor": "Run",
+    "Python.Task01.executor": "Run",
+    "Python.Task02 (1).executor": "Run",
+    "Python.Task02.executor": "Run",
+    "Python.Task03 (1).executor": "Run",
+    "Python.Task03.executor": "Run",
+    "Python.Task04 (1).executor": "Run",
+    "Python.Task04.executor": "Run",
+    "Python.Task05 (1).executor": "Run",
+    "Python.Task05.executor": "Run",
+    "Python.Task06.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "D:/Yamong/Documents/Metropolia/Software01Assignments/Module06",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
+  },
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "repository"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Yamong\Documents\Metropolia\Software01Assignments\Module06" />
+      <recent name="D:\Yamong\Documents\Metropolia\Software01Assignments\Module05" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Task06">
+    <configuration name="Task02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Software01Assignments" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Module06" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Module06/Task02.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Task03 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Software01Assignments" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Module06" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Module06/Task03.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Task04 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Software01Assignments" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Module06" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Module06/Task04.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Task05" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Software01Assignments" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Module06" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Module06/Task05.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Task06" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Software01Assignments" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Module06" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Module06/Task06.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Software01Assignments" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Task06" />
+        <item itemvalue="Python.Task05" />
+        <item itemvalue="Python.Task04 (1)" />
+        <item itemvalue="Python.Task03 (1)" />
+        <item itemvalue="Python.Task02" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-7e47963ff851-f0eec537fc84-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.23892.515" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="510b4b0d-dcca-4f6f-8fdb-6debda4de515" name="Changes" comment="" />
+      <created>1756016824265</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1756016824265</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Please let me inform that I have already Module01(Task01 and Task 02) and Module02 (Task01 to Task06).">
+      <option name="closed" value="true" />
+      <created>1756017340507</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1756017340507</updated>
+    </task>
+    <task id="LOCAL-00002" summary="I have finished Module3 (Task01 to Task04) and Module4 (Task01 to Task06).">
+      <option name="closed" value="true" />
+      <created>1756472607754</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1756472607754</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Please let me commit and push Module4_Task06 again.">
+      <option name="closed" value="true" />
+      <created>1756474870775</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1756474870775</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Please let me commit and push Module4_Task06 again.">
+      <option name="closed" value="true" />
+      <created>1757236269289</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1757236269289</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Please let me commit and push Module05(Task01 to Task04) and Module06(Task01 to Task06).">
+      <option name="closed" value="true" />
+      <created>1757238844833</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1757238844833</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Please let me commit and push Module05(Task01 to Task04) and Module06(Task01 to Task06).">
+      <option name="closed" value="true" />
+      <created>1757238921753</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1757238921753</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Please let me commit and push Module05(Task01 to Task04) and Module06(Task01 to Task06).">
+      <option name="closed" value="true" />
+      <created>1757239154386</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1757239154386</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Please let me commit and push Module05(Task01 to Task04) and Module06(Task01 to Task06).">
+      <option name="closed" value="true" />
+      <created>1757240652876</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1757240652876</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Please let me commit and push Module05(Task01 to  Task04) and Module06(Task01 to Task06).">
+      <option name="closed" value="true" />
+      <created>1757241940069</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1757241940069</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Please let me commit and push Module05(Task01 to  Task04) and Module06(Task01 to Task06).">
+      <option name="closed" value="true" />
+      <created>1757242584466</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1757242584466</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Please let me commit and push Module05(Task01 to  Task04).">
+      <option name="closed" value="true" />
+      <created>1757242761768</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1757242761768</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Please let me commit and push Module05(Task01 to  Task04).">
+      <option name="closed" value="true" />
+      <created>1757242895099</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1757242895099</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Please let me commit and push Module05(Task01 to  Task04) and Module05(Task01 to Task06).">
+      <option name="closed" value="true" />
+      <created>1757243151904</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1757243151904</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Please let me commit and push Module05(Task01 to  Task04) and Module05(Task01 to Task06).">
+      <option name="closed" value="true" />
+      <created>1757244496550</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1757244496550</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Please let me commit and push Module05(Task01 to  Task04) and Module05(Task01 to Task06).">
+      <option name="closed" value="true" />
+      <created>1757245080117</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1757245080117</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Please let me commit and push Module05(Task01 to  Task04) and Module05(Task01 to Task06).">
+      <option name="closed" value="true" />
+      <created>1757245192691</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1757245192691</updated>
+    </task>
+    <task id="LOCAL-00017" summary="commit and push for Module 05 (Task01 to Task04) and Module 06 (Task01 to Task06)">
+      <option name="closed" value="true" />
+      <created>1757248928125</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1757248928125</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Please let me inform that I have already Module01(Task01 and Task 02) and Module02 (Task01 to Task06)." />
+    <MESSAGE value="I have finished Module3 (Task01 to Task04) and Module4 (Task01 to Task06)." />
+    <MESSAGE value="Please let me commit and push Module5_Task01 to Task04 and Module6_Task01 to Task06" />
+    <MESSAGE value="Please let me commit and push Module05(Task01,02 and Task04) and Module06(Task03 to Task06)." />
+    <MESSAGE value="Please let me commit and push Module4_Task06 again." />
+    <MESSAGE value="Please let me commit and push Module05(Task01 to Task04) and Module06(Task01 to Task06)." />
+    <MESSAGE value="Please let me commit and push Module05(Task01 to  Task04) and Module06(Task01 to Task06)." />
+    <MESSAGE value="Please let me commit and push Module05(Task01 to  Task04)." />
+    <MESSAGE value="Please let me commit and push Module05(Task01 to  Task04) and Module05(Task01 to Task06)." />
+    <MESSAGE value="commit and push for Module 05 (Task01 to Task04) and Module 06 (Task01 to Task06)" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit and push for Module 05 (Task01 to Task04) and Module 06 (Task01 to Task06)" />
+    <option name="GROUP_MULTIFILE_MERGE_BY_DIRECTORY" value="true" />
+  </component>
+</project>
