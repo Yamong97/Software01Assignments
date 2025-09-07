@@ -4,27 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="510b4b0d-dcca-4f6f-8fdb-6debda4de515" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_07_09_2025_4_56_pm_[Changes]/shelved.patch" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_07_09_2025_4_56_pm__Changes_.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_07_09_2025_5_18_pm_[Changes]/shelved.patch" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_07_09_2025_5_18_pm__Changes_.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Module05/Task01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Module05/Task02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Module05/Task03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Module05/Task04.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Module06/Task01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Module06/Task02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Module06/Task03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Module06/Task04.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Module06/Task05.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Module06/Task06.py" afterDir="false" />
-    </list>
+    <list default="true" id="510b4b0d-dcca-4f6f-8fdb-6debda4de515" name="Changes" comment="Please let me inform that I completed Module05(Task01 to Task04) and Module 06 (Task01 to Task06)." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -400,7 +380,23 @@
       <option name="project" value="LOCAL" />
       <updated>1757248928125</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Please let me inform that I completed Module05(Task01 to Task04) and Module 06 (Task01 to Task06).">
+      <option name="closed" value="true" />
+      <created>1757254860763</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1757254860763</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Please let me inform that I completed Module05(Task01 to Task04) and Module 06 (Task01 to Task06).">
+      <option name="closed" value="true" />
+      <created>1757254971094</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1757254971094</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -437,7 +433,8 @@
     <MESSAGE value="Please let me commit and push Module05(Task01 to  Task04)." />
     <MESSAGE value="Please let me commit and push Module05(Task01 to  Task04) and Module05(Task01 to Task06)." />
     <MESSAGE value="commit and push for Module 05 (Task01 to Task04) and Module 06 (Task01 to Task06)" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit and push for Module 05 (Task01 to Task04) and Module 06 (Task01 to Task06)" />
+    <MESSAGE value="Please let me inform that I completed Module05(Task01 to Task04) and Module 06 (Task01 to Task06)." />
+    <option name="LAST_COMMIT_MESSAGE" value="Please let me inform that I completed Module05(Task01 to Task04) and Module 06 (Task01 to Task06)." />
     <option name="GROUP_MULTIFILE_MERGE_BY_DIRECTORY" value="true" />
   </component>
 </project>
