@@ -15,3 +15,6 @@ if len(Numbers) > 0 :
 
     print(f"The smallest number is: {smallest_number}")
     print(f"The largest number is: {largest_number}")
+
+else:
+    print("No numbers found!")
