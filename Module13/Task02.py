@@ -1,39 +1,45 @@
-from flask import Flask, request
-from flask_cors import CORS
+from flask import Flask, request, Response
 import mysql.connector
+import json
+
+app = Flask(__name__)
+app.json.sort_keys = False
 
 connection = mysql.connector.connect(
-    host='mysql.metropolia.fi',
-    port=3306,
-    database='mydatabase',
+    host='127.0.0.1',
     user='root',
     password='27111997',
-    autocommit=True
+    port=3306,
+    database='flight_game',
+    autocommit=True,
 )
 
 def get_airport_by_icao_code(icao_code):
-    sql = "SELECT * FROM airport WHERE ident='{icao_code}'"
+    sql = "SELECT name, municipality FROM airport WHERE ident = %s"
     cursor = connection.cursor(dictionary=True)
-    cursor.execute(sql)
+    cursor.execute(sql, (icao_code.upper(),))
     result = cursor.fetchone()
-    print('Debug', result)
-    return result
+    cursor.close()
+    if result:
+        response = {
+            "ICAO": icao_code.upper(),
+            "Name": result["name"],
+            "Location": result["municipality"],
+        }
+        print('Debug', result)
+        return response
+    else:
+        return None
 
-app = Flask(__name__)
-
-cors = CORS(app)
-app.config['CORS_HEADERS'] = 'Content-Type'
-
-@app.route('/airport/<icao>')
-def get_airport(icao):
-    try:
-        airport =  get_airport_by_icao_code(icao)
-        if airport == None:
-            return {'error': 'Airport not found'}, 404
-        return airport
-    except Exception:
-        return {'message': 'Something went wrong'}, 500
+@app.route('/airport/<icao_code>', methods=['GET'])
+def get_airport(icao_code):
+    data = get_airport_by_icao_code(icao_code.upper())
+    if data:
+        return Response(json.dumps(data), mimetype='application/json')
+    else:
+        error_data = {"error": f"Airport not found '{icao_code.upper()}'"}
+        return Response(json.dumps(error_data), status=404, mimetype='application/json')
 
 
 if __name__ == '__main__':
-    app.run(use_reloader=True, host='localhost', port=3000)
+    app.run(debug=True, host = "127.0.0.1", port = 5000)
